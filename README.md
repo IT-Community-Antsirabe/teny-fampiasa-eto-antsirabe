@@ -1,2 +1,2 @@
-# teny-fampiasa-eto-antsirabe
-Ireo teny fampiasa mampiavaka an'Antsirabe
+# Teny fampiasa eto Antsirabe
+Ireo teny fampiasa mampiavaka an'Antsirabe.
