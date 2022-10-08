@@ -14,5 +14,19 @@
             "aia ianareo izao ?",
             "aia koa iha ?"
         ]
+    },
+    {
+        "teny" : "ia",
+        "dikany" : "iza",
+        "ohatra" :[
+            "ia ny anaranao?"
+        ]
+    },
+    {
+        "teny" : "manday",
+        "dikany" : "mihazakazaka",
+        "ohatra" : [
+            "mila manday rehefa maika"
+        ]
     }
 ]
