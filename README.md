@@ -44,14 +44,14 @@ Efa natao `array` ny `ohatra` ka raha toa ka efa tafiditra ilay `teny` dia azona
 
 ## Fanatsarana
 Alohan'ny handefasana ny fanovana makany amin'ny `Fork` dia tsara raha atao manaraka ny alfabeta ny lisitry ny teny mba hanamora ny fitadiavana teny.
-Ahafahana manao izany dia misy `Extensions` `VSCode` maro azo ampiasaina, fa ity iray ity no atao ohatra eto: `Sort JSON`
+
+Ahafahana manao izany dia misy `Extensions` `VSCode` maro azo ampiasaina, fa ity iray ity no atao ohatra sy ampiasaina eto : [Sort JSON](https://marketplace.visualstudio.com/items?itemName=Thinker.sort-json)
 
 ### Fomba hakana azy
-Sokafy ny `VSCODE` dia tsindio ny `(Ctr+P)` ary adikao ao ity `Commande` manaraka ity
+Sokafy ny `VSCode` dia tsindio ny `(Ctrl + P)` ary adikao ao ity `Commande` manaraka ity
 
 ```
 ext install Thinker.sort-json
 ```
-
 ### Fomba fampiasana azy 
-[![preview](./img/preview.gif)]
+[![preview](./images/preview.gif)]
