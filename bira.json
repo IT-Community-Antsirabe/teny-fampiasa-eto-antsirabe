@@ -19,7 +19,7 @@
         "teny" : "ia",
         "dikany" : "iza",
         "ohatra" :[
-            "ia ny anaranao?"
+            "ia ny anaranao ?"
         ]
     },
     {
@@ -34,6 +34,13 @@
         "dikany" : "mangatsiaka",
         "ohatra" : [
             "mangitsy ny andro"
+        ]
+    },
+    {
+        "teny": "anay",
+        "dikany": "izahay",
+        "ohatra": [
+            "anay tsa mba nahare"
         ]
     }
 ]
