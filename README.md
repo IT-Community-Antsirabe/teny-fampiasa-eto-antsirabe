@@ -54,4 +54,9 @@ Sokafy ny `VSCode` dia tsindio ny `(Ctrl + P)` ary adikao ao ity `Commande` mana
 ext install Thinker.sort-json
 ```
 ### Fomba fampiasana azy 
-[![preview](./images/preview.gif)]
+![preview](./images/preview.gif "Fampiasana ilay extension Sort JSON")
+
+## Ireo mpandray anjara
+<a href="https://github.com/IT-Community-Antsirabe/teny-fampiasa-eto-antsirabe/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=IT-Community-Antsirabe/teny-fampiasa-eto-antsirabe" />
+</a>
