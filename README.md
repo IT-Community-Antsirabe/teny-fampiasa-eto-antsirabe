@@ -41,3 +41,17 @@ Efa natao `array` ny `ohatra` ka raha toa ka efa tafiditra ilay `teny` dia azona
 ## Fanamarihana
 - Ialao ny fanoratra SMS.
 - Mba tsy ahasarotra ny fanekena ny `pull request` izay ataonao dia manaova foana `git pull` mialohan'ny handefasanao azy.
+
+## Fanatsarana
+Alohan'ny handefasana ny fanovana makany amin'ny `Fork` dia tsara raha atao manaraka ny alfabeta ny lisitry ny teny mba hanamora ny fitadiavana teny.
+Ahafahana manao izany dia misy `Extensions` `VSCode` maro azo ampiasaina, fa ity iray ity no atao ohatra eto: `Sort JSON`
+
+### Fomba hakana azy
+Sokafy ny `VSCODE` dia tsindio ny `(Ctr+P)` ary adikao ao ity `Commande` manaraka ity
+
+```
+ext install Thinker.sort-json
+```
+
+### Fomba fampiasana azy 
+[![preview](./img/preview.gif)]
