@@ -37,6 +37,13 @@
         ]
     },
     {
+        "teny": "manena",
+        "dikany": "mampalahelo",
+        "ohatra": [
+            "manena va ianao ?"
+        ]
+    },
+    {
         "teny": "mangitsy",
         "dikany": "mangatsiaka",
         "ohatra": [
@@ -71,13 +78,6 @@
         "ohatra": [
             "tsary afaka aago",
             "tsary aiko an"
-        ]
-    },
-    {
-        "teny":"manena",
-        "dikany":"mampalahelo",
-        "ohatra":[
-            "manena va ianao"
         ]
     }
 ]
